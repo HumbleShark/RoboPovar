@@ -1,6 +1,6 @@
 # Робо-Повар 
 
-![Label](https://github.com/HumbleShark/RoboPovar/blob/master/assets/images/label.png)
+![Label](https://github.com/HumbleShark/RoboPovar/blob/main/assets/images/logo.png)
 
 АПИ на Фласке которое принимает на один из своих ендпоинтов картинку,
 определяет блюдо на ней и возвращает юзеру название блюда и его ингредиенты
